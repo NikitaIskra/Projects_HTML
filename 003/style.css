@@ -1,0 +1,43 @@
+h1 {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    border: 0;
+    clip: rect(0 0 0 0)
+}
+
+ul, h2, p {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+.list-item {
+    width: 30%;
+}
+
+.list-item > img {
+    width: 100%;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+    color: #363636;
+}
+
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+html {
+    box-sizing: border-box;
+}
+.article {
+    padding: 20px;
+}

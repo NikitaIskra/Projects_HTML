@@ -1,0 +1,15 @@
+.text {
+    color: #FF0000; 
+    padding: 10px 20px 5px;
+    border: 1px solid #032687;
+    background-color: chartreuse;
+}
+
+.image {
+    width: 200px;
+}
+
+body, p {
+    margin: 0;
+
+}

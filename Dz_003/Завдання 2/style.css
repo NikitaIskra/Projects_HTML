@@ -1,0 +1,39 @@
+ul {
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+    color: #ffff;
+    padding-left: 20px;
+}
+
+.vertical-menu {
+    background-color: #808080;
+    margin-top: 70px;
+    margin-right: 1250px;
+    padding-left: 1px;
+    margin-left: -20px;
+}
+
+.menu > img {
+    width: 40px;
+    margin-right: 35px;
+    margin-left: 5px
+
+}
+
+.menu {
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    display: flex; 
+    align-items: center;
+    transition: background-color 0.3s ease;
+}
+
+.menu:hover {
+    background-color: #413e3e;
+}

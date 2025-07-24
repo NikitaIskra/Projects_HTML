@@ -1,0 +1,32 @@
+.list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+/* .list span {
+    margin-right: 20px;
+    padding: 4px 8px;
+    display: inline-block;
+    border: 1px solid rgb(72, 103, 26);
+    background-color: rgb(246, 166, 5);
+    border-radius: 50%;
+    font-size: 18px;
+    color: rgb(254, 223, 48);
+} */
+.list li{
+    margin-bottom: 10px;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+}
+
+.list li::before {
+    content: '\2600';
+}
+
+.list li::after {
+    content: '\263A';
+}

@@ -1,0 +1,30 @@
+h1 {
+    font-family: "Montserrat", sans-serif;
+    margin-left: 50px;
+}
+.list {
+    list-style-type: none;
+    margin-left: 50px;
+    font-family: "Montserrat", sans-serif;
+}
+.blue2 {
+    padding-bottom: 10px;
+    width: 550px;
+    background-color: #7097d9;
+    padding: 10px 20px;
+}
+.blue1 {
+    background-color: #778bae ;
+    padding-bottom: 10px;
+    width: 550px;
+    padding: 10px 20px;
+}
+.done {
+    background-color: rgb(222, 215, 215);
+    padding-bottom: 10px;
+    width: 550px;
+    padding: 10px 20px;
+}
+.somwols {
+    padding: 10px, 20px;
+}

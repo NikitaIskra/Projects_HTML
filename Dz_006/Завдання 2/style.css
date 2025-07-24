@@ -1,0 +1,70 @@
+body, p, h5, h3 {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ececec;
+    font-family: "Montserrat", sans-serif;
+    font-size: 13px;
+}
+
+.chat { 
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    padding: 60px;
+    gap: 30px;
+}
+
+.anie {
+    background-color: #f1b0e4;
+    padding: 20px 20px;
+    border-radius: 10px 10px 10px 0px;
+}
+
+.jack {
+    background-color: #89a4e6;
+    padding: 20px 20px;
+    border-radius: 10px 10px 0px 10px;
+}
+
+.name1 {
+    position: absolute;
+    display: grid;
+    left: 350px;
+    padding-top: 90px;
+}
+
+.name2 {
+    position: absolute;
+    display: grid;
+    right: 350px;
+    padding-top: 100px;
+}
+
+.image-jack {
+    position: absolute;
+    display: grid;
+    right: 475px;
+    padding-top: 90px;
+    gap: 130px;
+}
+
+.image-anie {
+    position: absolute;
+    display: grid;
+    left: 450px;
+    padding-top: 85px;
+    gap: 130px;
+}
+
+img {
+    width: 40px;
+}
+

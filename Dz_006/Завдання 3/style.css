@@ -1,0 +1,93 @@
+body, p, h2{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    background-color: #899ed0;
+}
+
+img {
+    width: 30px;
+    height: 30px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.main-section {
+    display: flex;
+    gap: 20px; 
+    padding: 20px;
+    overflow-x: auto; 
+    white-space: nowrap;
+}
+
+.menu {
+    background-color: #5d81d4;
+    padding: 25px 30px;
+    color: #fff;
+}
+
+.board1 {
+    background-color: #c6c3c3;
+    padding: 20px;
+    width: 350px;
+    height: 600px;
+    border-radius: 5px;
+}
+
+.board3 {
+    background-color: #c6c3c3;
+    padding: 20px;
+    width: 350px;
+    height: 600px;
+    border-radius: 5px;
+}
+
+.board4 {
+    background-color: #c6c3c3;
+    padding: 20px;
+    width: 350px;
+    height: 600px;
+    border-radius: 5px;
+}
+
+.board5 {
+    background-color: #c6c3c3;
+    padding: 20px;
+    width: 350px;
+    height: 600px;
+    border-radius: 5px;
+}
+
+.board2 {
+    background-color: #c6c3c3;
+    padding: 20px;
+    width: 350px;
+    height: 600px;
+    border-radius: 5px;
+}
+
+.message2 {
+    overflow-y: auto;
+    max-height: 500px;
+    padding-right: 5px;
+}
+
+.symbols {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #ffffff;
+    padding: 15px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.icons1, .icons2, .icons3, .icons4, .icons5 {
+    margin-top: 70px;
+}

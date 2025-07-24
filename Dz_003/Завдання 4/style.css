@@ -1,0 +1,78 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    color: #ffffff;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 200px;
+    padding-top: 0px;
+}
+
+hr {
+    width: 1380px;
+    margin-left: -500px;
+}
+
+br {
+    margin: 1px;
+}
+
+p {
+    font-size: 15px;
+    text-decoration: none;
+    cursor: pointer;
+}
+h1 {
+    font-size: 10px;
+    margin-top: 30px;
+}
+
+.color {
+    background-color: #245876;
+    margin-top: -10px;
+    margin-right: -10px;
+    margin-left: -10px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    display: flex;
+    gap: 150px;
+}
+
+p:hover{
+    text-decoration: underline;
+}
+
+.img1 {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    padding-top: 0px;
+    border-radius: 50%;
+    margin-left: -600px;
+    cursor: pointer;
+}
+
+.img1:hover {
+    background-image: url('assets/facebook-Photoroom.png');
+    background-image: linear-gradient(rgb(11, 27, 120));
+}
+
+.img3 {
+    display: flex;
+    width: 40px;
+    height: 40px;
+    padding-top: 0px;
+    border-radius: 20%;
+    margin-left: -120px;
+    cursor: pointer;
+
+}
+
+.img3:hover {
+    background-image: url('assets/yotube-Photoroom.png');
+    background-image: linear-gradient(rgb(139, 10, 10));
+    background-size: 100%;
+}
+
+

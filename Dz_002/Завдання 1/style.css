@@ -1,0 +1,70 @@
+.list {
+    width: 470px;
+    background-color: rgb(216, 173, 173);
+    margin-left: 40px;
+    margin-top: 50px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+}
+.list li {
+    background-color: rgb(228, 144, 144);
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    font-family:  "Montserrat", sans-serif;
+    margin: 25px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 5px;
+    width: 450px;
+    margin-left: -1px;
+}
+.apple {
+    background-color: rgb(198, 28, 28);
+    margin-right: 350px;
+    padding-top: 10px;
+    margin-top: -11px;
+    padding-bottom: 10px;
+    margin-bottom: -12px;
+    padding-left: 11px;
+    margin-left: -5px;
+}
+.orange {
+    background-color: rgb(198, 28, 28);
+    margin-right: 330px;
+    padding-top: 10px;
+    margin-top: -11px;
+    padding-bottom: 10px;
+    margin-bottom: -12px;
+    padding-left: 11px;
+    margin-left: -5px;
+}
+.pineapple {
+    background-color: rgb(198, 28, 28);
+    margin-right: 300px;
+    padding-top: 10px;
+    margin-top: -11px;
+    padding-bottom: 10px;
+    margin-bottom: -12px;
+    padding-left: 11px;
+    margin-left: -5px;
+}
+.pear {
+    background-color: rgb(198, 28, 28);
+    margin-right: 370px;
+    padding-top: 10px;
+    margin-top: -11px;
+    padding-bottom: 10px;
+    margin-bottom: -12px;
+    padding-left: 11px;
+    margin-left: -5px;
+}
+.cherry {
+    background-color: rgb(198, 28, 28);
+    margin-right: 340px;
+    padding-top: 10px;
+    margin-top: -11px;
+    padding-bottom: 10px;
+    margin-bottom: -12px;
+    padding-left: 11px;
+    margin-left: -5px;
+}
